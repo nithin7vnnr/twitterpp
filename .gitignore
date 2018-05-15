@@ -1,0 +1,27 @@
+# Packages and libraries
+node_modules
+bower_components
+yarn.lock
+
+# IDE files and logs
+.idea
+*log
+npm-debug.log.*
+
+# Test reports and results
+reports
+coverage
+
+# API keys
+*/**/keys.*
+
+# Built files
+models/*.js
+utils/*.js
+config/*.js
+routes/*.js
+public
+
+# Weird OS files
+.DS_Store
+*/**/.DS_Store

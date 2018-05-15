@@ -1,0 +1,56 @@
+{
+  "name": "twitter-sentiment-visualisation",
+  "version": "0.0.0",
+  "authors": [
+    "alicia@aliciasykes.com"
+  ],
+  "description": "A series of data visualisations showing overall sentiment from Tweets by location and/or topic",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "awesome",
+    "twitter",
+    "sentiment-analysis",
+    "d3",
+    "visualisation",
+    "data"
+  ],
+  "license": "MIT",
+  "homepage": "http://twitter-sentiment-visualisation.as93.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.16",
+    "google-chart": "GoogleWebComponents/google-chart#~1.0.4",
+    "google-map": "GoogleWebComponents/google-map#~1.0.3",
+    "jquery": "~2.1.4",
+    "markerclusterer_compiled": "https://cdn.rawgit.com/googlemaps/js-marker-clusterer/gh-pages/src/markerclusterer.js",
+    "materialize": "~0.97.5",
+    "Detector": "https://raw.githubusercontent.com/dataarts/webgl-globe/master/globe/third-party/Detector.js",
+    "three.min": "https://raw.githubusercontent.com/dataarts/webgl-globe/master/globe/third-party/three.min.js",
+    "Tween": "https://raw.githubusercontent.com/dataarts/webgl-globe/master/globe/third-party/Tween.js",
+    "globe": "https://raw.githubusercontent.com/dataarts/webgl-globe/master/globe/globe.js",
+    "d3-word-cloud": "https://raw.githubusercontent.com/jasondavies/d3-cloud/master/build/d3.layout.cloud.js",
+    "tipsy": "https://cdnjs.cloudflare.com/ajax/libs/jquery.tipsy/1.0.2/jquery.tipsy.js",
+    "nvd3": "~1.8.2",
+    "sankey.js": "https://raw.githubusercontent.com/d3/d3-plugins/master/sankey/sankey.js",
+    "hexbin": "http://d3js.org/d3.hexbin.v0.min.js",
+    "d3tip": "https://raw.githubusercontent.com/Caged/d3-tip/master/index.js",
+    "c3": "~0.4.10",
+    "radar-chart-d3": "https://github.com/alangrafu/radar-chart-d3.git#~1.2.1",
+    "Materialize": "materialize#~0.97.5",
+    "jquery-autocompleter": "Autocompleter#~0.1.9",
+    "bullet.js": "https://gist.githubusercontent.com/mbostock/4061961/raw/6eb742223b9795260ba62150196ed0ae4a461e39/bullet.js",
+    "socket.io": "^2.0.3",
+    "socketio": "https://cdn.socket.io/socket.io-1.4.3.js",
+    "jssocials": "^1.5.0",
+    "components-font-awesome": "^4.7.0"
+  }
+}
