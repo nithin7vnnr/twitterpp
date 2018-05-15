@@ -37,11 +37,6 @@ The application is fully documented, which can be viewed [here](docs/readme.md)
 
 
 
-
-## Live Application
-A live demo of the application has been deployed to: [http://sentiment-sweep.com](http://sentiment-sweep.com)
-
-
 ## Screen Shots
 As part of the documentation there is one shot of each screen in it's current state. [View screen shots here](docs/screenshots/readme.md)
 
